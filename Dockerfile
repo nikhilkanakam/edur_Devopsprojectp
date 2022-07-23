@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+-FROM devopsedu/webapp
 -
 -ADD proj /var/www/html
 -
